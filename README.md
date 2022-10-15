@@ -70,3 +70,4 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 61. [jedmund.single.fyi](https://jedmund.single.fyi/)
 62. [jzhao.xyz](https://jzhao.xyz/)
 63. [verses](https://verses.xyz/)
+64. [thoughts dot hnr dot fyi](https://thoughts.hnr.fyi/index.html)
