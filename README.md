@@ -71,3 +71,4 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 62. [jzhao.xyz](https://jzhao.xyz/)
 63. [verses](https://verses.xyz/)
 64. [thoughts dot hnr dot fyi](https://thoughts.hnr.fyi/index.html)
+65. [Gödel’s first incompleteness theorem | TigYog](https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem)
