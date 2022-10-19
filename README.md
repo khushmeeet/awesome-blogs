@@ -59,7 +59,7 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 51. [Neil Panchal](https://neil.computer/)
 52. [howisFelix.today? · Felix Krause](https://howisfelix.today/?)
 53. [Essays · Gwern.net](https://www.gwern.net/index)
-54. https://everest-pipkin.com/#
+54. [Everest Pipkin](https://everest-pipkin.com/#)
 55. [Nicolas P. Rougier](https://www.labri.fr/perso/nrougier/)
 56. [Robin Rendle](https://www.robinrendle.com/)
 	1. [The Futures of Typography](https://www.robinrendle.com/essays/the-futures-of-typography/)
