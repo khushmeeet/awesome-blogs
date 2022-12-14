@@ -74,3 +74,6 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 65. [Gödel’s first incompleteness theorem | TigYog](https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem)
 66. [Enjoyment Work](https://enjoyment-work.netlify.app/)
 67. [barnsworthburning](https://barnsworthburning.net/)
+68. [GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](https://githubcopilotinvestigation.com/)
+69. [A year of new avenues](https://www.robinsloan.com/lab/new-avenues/)
+70. [Merlin’s Notebook](https://bmbumpus.com/)
