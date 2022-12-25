@@ -77,3 +77,4 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 68. [GitHub Copilot investigation · Joseph Saveri Law Firm & Matthew Butterick](https://githubcopilotinvestigation.com/)
 69. [A year of new avenues](https://www.robinsloan.com/lab/new-avenues/)
 70. [Merlin’s Notebook](https://bmbumpus.com/)
+71. [Matthew Siu](https://www.matthewsiu.com/)
