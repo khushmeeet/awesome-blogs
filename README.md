@@ -81,3 +81,4 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 72. [Brendan Schlagel](https://www.brendanschlagel.com/)
 73. [Laurel World](https://blog.laurel.world/)
 74. [the solar monk](https://thesolarmonk.com/)
+75. [Moby Diction](https://mobydiction.ca/)
