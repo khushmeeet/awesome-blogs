@@ -82,3 +82,6 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 73. [Laurel World](https://blog.laurel.world/)
 74. [the solar monk](https://thesolarmonk.com/)
 75. [Moby Diction](https://mobydiction.ca/)
+76. [Volvox Observer](https://volvox.observer/town)
+77. [Laurel Schwulst](https://www.laurel.world/)
+78. [Kwon.nyc](https://kwon.nyc/)
