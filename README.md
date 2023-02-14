@@ -85,3 +85,5 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 76. [Volvox Observer](https://volvox.observer/town)
 77. [Laurel Schwulst](https://www.laurel.world/)
 78. [Kwon.nyc](https://kwon.nyc/)
+79. [Berkeley Graphics - Home](https://berkeleygraphics.com/)
+80. [rntz](http://www.rntz.net/index.html)
