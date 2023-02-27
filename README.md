@@ -87,3 +87,4 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 78. [Kwon.nyc](https://kwon.nyc/)
 79. [Berkeley Graphics - Home](https://berkeleygraphics.com/)
 80. [rntz](http://www.rntz.net/index.html)
+81. [Butterick’s Practical Typography](https://practicaltypography.com/)
