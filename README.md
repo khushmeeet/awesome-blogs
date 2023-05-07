@@ -89,3 +89,4 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 80. [rntz](http://www.rntz.net/index.html)
 81. [Butterick’s Practical Typography](https://practicaltypography.com/)
 81. [jahnavi](https://jahnavi.rocks/)
+82. [Philippine Cassette Archive](https://philippinecassettearchive.com/)
