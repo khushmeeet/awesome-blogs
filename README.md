@@ -91,3 +91,7 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 81. [jahnavi](https://jahnavi.rocks/)
 82. [Philippine Cassette Archive](https://philippinecassettearchive.com/)
 83. [arcana.computer](https://www.arcana.computer/)
+84. [Brad Woods’ Digital Garden](https://garden.bradwoods.io/)
+85. [Hypha 🌱 Digital Garden](https://digitalgarden.hypha.coop/hypha)
+86. [marqi – One strange hotel](https://www.marqi.holiday/)
+87. [Udara’s homepage | Udara](https://udara.io/)
