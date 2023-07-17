@@ -96,3 +96,4 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 86. [marqi – One strange hotel](https://www.marqi.holiday/)
 87. [Udara’s homepage | Udara](https://udara.io/)
 88. [Pi, your personal AI](https://heypi.com/talk)
+89. [Broadsheet](https://broadsheet.chasem.co/)
