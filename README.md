@@ -97,4 +97,5 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 87. [Udara’s homepage | Udara](https://udara.io/)
 88. [Pi, your personal AI](https://heypi.com/talk)
 89. [Broadsheet](https://broadsheet.chasem.co/)
-90. [https://monocle.com/subscribe/](https://monocle.com/subscribe/)
+90. [Monocle](https://monocle.com/)
+
