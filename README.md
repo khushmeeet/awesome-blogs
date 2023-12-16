@@ -98,4 +98,5 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 88. [Pi, your personal AI](https://heypi.com/talk)
 89. [Broadsheet](https://broadsheet.chasem.co/)
 90. [Monocle](https://monocle.com/)
+91. [Fabien Sanglard](https://fabiensanglard.net/)
 
