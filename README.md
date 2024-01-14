@@ -99,4 +99,5 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 89. [Broadsheet](https://broadsheet.chasem.co/)
 90. [Monocle](https://monocle.com/)
 91. [Fabien Sanglard](https://fabiensanglard.net/)
+92. [Carlos Galdino](https://blog.carlosgaldino.com/)
 
