@@ -100,4 +100,5 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 90. [Monocle](https://monocle.com/)
 91. [Fabien Sanglard](https://fabiensanglard.net/)
 92. [Carlos Galdino](https://blog.carlosgaldino.com/)
+93. [Johnny Decimal System - Organize your digital life](https://johnnydecimal.com/)
 
