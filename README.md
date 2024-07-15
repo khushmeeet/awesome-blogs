@@ -102,4 +102,4 @@ It mostly features personal blogs or blogposts that are attracting to me in some
 92. [Carlos Galdino](https://blog.carlosgaldino.com/)
 93. [Johnny Decimal System - Organize your digital life](https://johnnydecimal.com/)
 94. [Harvard Law Review](https://harvardlawreview.org/)
-
+95. [Chloe Yan](https://www.chloeyan.me/)
